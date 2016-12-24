@@ -9,7 +9,7 @@
 	* git init
 2. 添加新文件到暂存区
 	 - git add test.txt 或者 git add *
-3. 设置git仓库的配置信息
+3. 设置git仓库的配置信息(暂时用不到)
 	 - git config --global user.name "Irick"
 	 - git config --global user.email "lucasbollute@sina.com"
 	 - git config --global core.editor "notepad"
